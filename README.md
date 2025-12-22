@@ -30,8 +30,6 @@ Focused on delivering high-quality software through structured testing strategie
 ---
 
 ## 📌 Featured Projects
-> Practical QA projects demonstrating real-world automation and API testing skills
-
 ### 🧩 Trello API Testing (Manual & Automation)
 - Designed and executed comprehensive **manual API test cases** using Postman.
 - Automated critical API workflows using **Java, Rest Assured, TestNG, and Maven**.
