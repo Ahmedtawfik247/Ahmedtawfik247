@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Ahmed Tawfik
 
 🧪 **Software Test Engineer** with experience in **Manual** and **Automated Testing** of web applications and RESTful APIs.  
-Committed to delivering high-quality software through efficient testing strategies and clean automation design.
+Focused on delivering high-quality software through structured testing strategies and maintainable automation frameworks.
 ---
 
 ## 🔍 Testing Skills
@@ -14,7 +14,7 @@ Committed to delivering high-quality software through efficient testing strategi
 ---
 
 ## 🛠 Tools & Technologies
-- **Languages:** Java, C/C++, python
+- **Languages:** Java, C/C++, Python
 - **Automation:** Selenium WebDriver, TestNG  
 - **API Testing:** RestAssured, Postman  
 - **Build & Tools:** Maven, Git  
@@ -30,8 +30,24 @@ Committed to delivering high-quality software through efficient testing strategi
 ---
 
 ## 📌 Featured Projects
-> Practical testing projects focusing on automation frameworks and API testing  
-(Projects will be added soon)
+> Practical QA projects demonstrating real-world automation and API testing skills
+
+### 🧩 Trello API Testing (Manual & Automation)
+- Designed and executed comprehensive **manual API test cases** using Postman.
+- Automated critical API workflows using **Java, Rest Assured, TestNG, and Maven**.
+- Validated request/response schemas, status codes, edge cases, and end-to-end flows.
+- Integrated **Allure Reports** for detailed execution reporting.
+- 🔗 Repository: https://github.com/Ahmedtawfik247/trello-api-testing
+
+---
+
+### 🛒 DemoBlaze Web Automation Testing
+- Built a **Selenium WebDriver automation framework** for an e-commerce website.
+- Applied **Page Object Model (POM)** for maintainable and scalable test design.
+- Automated core user journeys such as login, product selection, and checkout.
+- Generated test execution reports using **Allure**.
+- 🔗 Repository: https://github.com/Ahmedtawfik247/Demoblaze-automation-testing
+
 
 ---
 
